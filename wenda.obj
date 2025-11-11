@@ -1,7 +1,7 @@
 # Blender 4.5.3 LTS
 # www.blender.org
 mtllib wenda.mtl
-o Cone
+o Mesh
 v 1.240456 4.245294 -0.795583
 v 0.424307 3.352162 -0.264488
 v 0.252050 3.258425 -0.862478
