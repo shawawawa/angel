@@ -1,7 +1,7 @@
 # Blender 4.5.3 LTS
 # www.blender.org
 mtllib face.mtl
-o BODY.001
+o Mesh
 v 0.000000 4.577873 0.457984
 v 0.000000 4.581783 0.767868
 v 0.000000 4.858717 1.061679
