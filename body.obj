@@ -1,7 +1,7 @@
 # Blender 4.5.3 LTS
 # www.blender.org
 mtllib body.mtl
-o BODY.002
+o Mesh
 v 0.123323 6.445683 0.532142
 v -0.055766 6.355283 -0.403701
 v 0.908018 5.906537 0.434058
