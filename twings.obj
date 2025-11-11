@@ -1,7 +1,7 @@
 # Blender 4.5.3 LTS
 # www.blender.org
 mtllib twings.mtl
-o BODY.005
+o Mesh
 v 0.915391 7.041008 0.688548
 v 0.890863 7.129086 0.713482
 v 0.823852 7.193563 0.731734
